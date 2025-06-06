@@ -1,7 +1,7 @@
 import requests
 import pytrends.request
 from bs4 import BeautifulSoup
-from typing import List, Dict, Optional
+from typing import List, Dict, Optional, Any
 import logging
 
 class TrendSourcer:
